@@ -1,6 +1,6 @@
 > December, 2022
 
-# Clase 6
+# Clase 6 - User centric y Facct
 
 Los sistemas basados en Inteligencia Artificial y que son alimentados por grandes volúmenes de datos, tienen una serie de implicaciones en variadas industrias, que inciden directamente en la vida humana. Estos sistemas filtran, clasifican, califican, recomiendan, personalizan y dan forma a la experiencia humana, tomando decisiones con alto impacto en la cotidianeidad. Así como esto conlleva a múltiples beneficios, también se ve enfrentado a riesgos, entre ellos el sesgo. Es por esto, que es indispensable estudiar estos sistemas y evaluarlos bajo diversas perspectivas, lo cual da origen a Facct (justicia, explicabilidad y transparencia).
 
