@@ -47,7 +47,8 @@ Es posible revertir, en cierta forma, esta situación, de modo que existen artí
 
 
 
-# Clase 7
+# Clase 8 - Interactive and Conversational Recommender Systems
+
 
 
 
