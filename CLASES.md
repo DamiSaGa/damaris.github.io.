@@ -88,3 +88,8 @@ Chat GPT tiene la capacidad para aprender de grandes cantidades de datos. Está 
 
 
 
+
+
+# Clase 9 - Dominios de aplicación e investigación reciente (Graph-based resys, POI, recommendation, fashion recommendation, etc)
+
+
